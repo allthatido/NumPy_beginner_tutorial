@@ -1,0 +1,6 @@
+name: NumPy_tut
+channels:
+    - conda-forge
+dependencies:
+    - python==3.6.4
+    - jupyter==1.0.0
