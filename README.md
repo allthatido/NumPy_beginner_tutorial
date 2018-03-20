@@ -7,6 +7,7 @@ This is a quick and fast introduction to python's scietific library NumPy. This 
 ## Packages used: ##
 
 * [`jupyter`](http://jupyter.org/)
+* [`numpy`](http://www.numpy.org/)
 
 ### The recommended way to get up and running: ###
 
