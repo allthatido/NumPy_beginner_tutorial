@@ -29,9 +29,9 @@ If you don’t have it installed already, it will prompt you to install it.
 There are also a few ways to install Git on Windows. The most official build is available for download on the Git website. Just go to http://git-scm.com/download/win and the download will start automatically.
 
 
-## [Anaconda Environment](docs/configure_via_anaconda.md)
+## [Anaconda Environment] ##
 
-Get started [here](docs/configure_via_anaconda.md). More info [here](http://conda.pydata.org/docs/).
+Get started [here](docs/configure_anaconda.md). More info [here](http://conda.pydata.org/docs/).
 
 Supported Sytems: MacOS, Windows, Linux
 
