@@ -2,7 +2,7 @@
 
 ## Overview ##
 
-This is a quick and fast introduction to python's scietific library NumPy. This tutorial provides a quick way to get introduced to the various methods of the library and begin to use NumPy in your projects
+This is a quick and fast introduction to python's scietific library NumPy. This tutorial provides a quick way to get introduced to the various methods of the library and begin to use NumPy in your projects. We shall create a conda environment and use jupyter notebooks for this tutorial
 
 ## Packages used: ##
 
